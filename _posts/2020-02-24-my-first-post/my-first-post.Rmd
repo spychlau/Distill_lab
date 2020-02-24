@@ -1,0 +1,29 @@
+---
+title: "My first post"
+description: |
+  A short description of the post.
+author:
+  - name: Nora Jones
+    url: https://example.com/norajones
+date: 02-24-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is the test like Daniel performs it in a new post
+
+```{r}
+
+library(ggplot2)
+ggplot(mpg, aes(displ, cyl)) +
+  geom_point(color = "gray70") +
+  geom_smooth() +
+  theme_minimal()
+
+```
+
