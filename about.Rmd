@@ -4,6 +4,8 @@ description: |
   Some additional details about the blog
 ---
 
+Let's see if I can write anything here
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
