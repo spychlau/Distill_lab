@@ -33,7 +33,7 @@ ggplot(mpg, aes(displ, cyl)) +
   geom_smooth() +
   theme_minimal()
 
-install.packages("usethis")
+#install.packages("usethis")
 
 usethis::git_vaccinate()
 

@@ -14,5 +14,21 @@
     "preview": {},
     "last_modified": "2020-02-24T10:27:29-08:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2020-02-24-my-first-post/",
+    "title": "My first post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Sophie Pychlau",
+        "url": "https://uoregon.edu"
+      }
+    ],
+    "date": "2020-02-24",
+    "categories": [],
+    "preview": "posts/2020-02-24-my-first-post/my-first-post_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2020-02-24T11:12:25-08:00",
+    "input_file": "my-first-post.utf8.md"
   }
 ]
