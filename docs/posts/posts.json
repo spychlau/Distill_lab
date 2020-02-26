@@ -1,19 +1,33 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to My Blog",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/2020-02-26-secondpost/",
+    "title": "second_post",
+    "description": "A short description of the post.",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Sophie Pychlau",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-26",
+    "categories": [],
+    "preview": "posts/2020-02-26-secondpost/secondpost_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2020-02-26T10:46:26-08:00"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Blog",
+    "description": "Welcome to othe amazing world of not having a life!",
+    "author": [
+      {
+        "name": "Sophie Pychlau",
+        "url": "https://github.com/spychlau"
       }
     ],
     "date": "2020-02-24",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-02-24T10:27:29-08:00",
-    "input_file": {}
+    "last_modified": "2020-02-26T10:46:57-08:00"
   },
   {
     "path": "posts/2020-02-24-my-first-post/",
@@ -28,7 +42,6 @@
     "date": "2020-02-24",
     "categories": [],
     "preview": "posts/2020-02-24-my-first-post/my-first-post_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2020-02-24T11:12:25-08:00",
-    "input_file": "my-first-post.utf8.md"
+    "last_modified": "2020-02-26T10:46:45-08:00"
   }
 ]

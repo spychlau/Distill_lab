@@ -1,6 +1,6 @@
 ---
 title: "About this blog"
-description: |
+description: This is the blog as a test from class
   Some additional details about the blog
 ---
 
